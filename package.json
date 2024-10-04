@@ -1,0 +1,35 @@
+{
+  "name": "boilerplate-landing",
+  "version": "1.0.0",
+  "description": "Boilerplate for a quick start on landing page development",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvankoBoichuk/boilerplate-landing.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "landing"
+  ],
+  "author": "Ivan Boichuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvankoBoichuk/boilerplate-landing/issues"
+  },
+  "homepage": "https://github.com/IvankoBoichuk/boilerplate-landing#readme",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "tailwindcss": "^4.0.0-alpha.26",
+    "@tailwindcss/vite": "^4.0.0-alpha.26",
+    "vite": "^5.4.8"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "swiper": "^11.1.14"
+  }
+}

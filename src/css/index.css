@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-base: #F06543;
+  --color-brand-light: #D9BCFF;
+  --color-brand-lighter: #D9BCFF;
+  --color-brand-dark: #3B0088;
+  --color-brand-darker: #3B0088;
+}
+
+h1 {
+  font-size: 200px;
+}
